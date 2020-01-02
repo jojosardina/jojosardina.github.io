@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JoJo's science website!
+permalink: 
 ---
 
 I am broadly interested in the mechanisms of evolutionary innovation. 
