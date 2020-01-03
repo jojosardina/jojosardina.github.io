@@ -1,12 +1,11 @@
 # Site settings
 name: JoJo Sardina
-description: Genetics PhD student at the UW-Madison
-url:
+description: Genetics PhD student at UW-Madison
 
 
 # Delete the lines you don't need
 # about 5 elements are recomended
-github_username:  jojosardina
+github_username: jojosardina
 codepen_username: 
 facebook_username: 
 vk_username: 
