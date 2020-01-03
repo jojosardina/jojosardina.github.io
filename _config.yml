@@ -5,9 +5,9 @@
 title: JoJo Sardina
 description: |
  Genetics PhD student at UW-Madison
-owner: Your Name # or company name
+owner: JoJo Sardina # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: jojosardina@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
